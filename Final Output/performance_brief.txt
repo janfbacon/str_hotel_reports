@@ -1,0 +1,33 @@
+====================================================================
+  HERMES HOSPITALITY — STR PORTFOLIO PERFORMANCE BRIEF
+  Generated: 2026-07-28 01:07
+====================================================================
+
+─── PORTFOLIO MOMENTUM ───
+  Properties with improving 7-Day RGI % Change: 2 of 5
+  Declining: 3  |  Stable: 0
+
+─── HISTORICAL TRENDS (26-Week Window) ───
+  ▼ HEZCN: 28-Day RGI Index at 26-week LOW (117.45)
+  ▼ MSYHV: 28-Day RGI Index at 26-week LOW (81.03)
+
+─── URGENT ALERTS (Week-over-Week Swing > ±5%) ───
+  ⚠ DROP  HEZCN: 7-Day RGI % Change swung -8.63pp  (-40.31% → -48.94%)
+  ⚠ DROP  JANGM: 7-Day RGI % Change swung -241.26pp  (149.88% → -91.38%)
+  ⚠ DROP  JANTW: 7-Day RGI % Change swung -21.55pp  (-42.04% → -63.59%)
+  ⚠ SURGE  LQCHA: 7-Day RGI % Change swung +45.52pp  (-17.12% → 28.40%)
+  ⚠ SURGE  MSYHV: 7-Day RGI % Change swung +16.40pp  (-35.26% → -18.86%)
+
+─── RANKINGS (by Latest 28-Day RGI % Change) ───
+  Top Performers:
+    1. JANGM   +54.82%
+    2. LQCHA   +31.14%
+    3. MSYHV   -19.91%
+  Bottom Performers:
+    1. MSYHV   -19.91%
+    2. HEZCN   -42.63%
+    3. JANTW   -46.10%
+
+====================================================================
+  End of Brief
+====================================================================

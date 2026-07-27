@@ -1,0 +1,8 @@
+# Hermes STR Pipeline — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+pandas>=2.2.0
+openpyxl>=3.1.0
+streamlit>=1.50.0
+altair>=5.0.0
+google-genai>=1.10.0
