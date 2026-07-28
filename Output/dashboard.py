@@ -211,13 +211,7 @@ def render_kpis(df: pd.DataFrame, period_key: str) -> None:
     latest = df.sort_values("Date").groupby("Inn Code").tail(1).reset_index(drop=True)
 
     # For deltas, grab each hotel's second-to-last row
-    prior_candidates = df.sort_values("Date").groupby("Inn Code").apply(
-        lambda g: g.iloc[-2] if len(g) >= 2 else None
-    )
-    if not prior_candidates.empty:
-        prior = prior_candidates.dropna(how="all").reset_index(drop=True)
-    else:
-        prior = pd.DataFrame()
+    prior = df.sort_values("Date").groupby("Inn Code", as_index=False).nth(-2).reset_index(drop=True)
     has_prior = not prior.empty
 
     cols = st.columns(4)
