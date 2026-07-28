@@ -1,6 +1,6 @@
-pandas
-openpyxl
-streamlit
-altair
-google-genai
+pandas==2.2.3
+openpyxl==3.1.5
+streamlit==1.53.1
+altair==6.0.0
+google-genai==1.15.0
 rich
